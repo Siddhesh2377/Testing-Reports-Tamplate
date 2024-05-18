@@ -1,0 +1,37 @@
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Device 1 : Redmi Note 10s 
+Screen -> 2400 x 1080
+Android : 13
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Report : 
+
+Data 0 -> MainActivtity 
+
+: > Task Add = ok
+: > Background Task Reminder = ok
+: > Task List View = ok
+: > Task Category View = ok
+: > Easy Task View = ok
+: > Hard Task View = ok
+: > Critical Task View = ok
+: > View Task Screen = ok
+: > Bottom Bar = ok
+
+----------------------------------------------------------------------
+ 
+Suggestions -> 
+
+: > Should Improve The Ui, 
+: > Add Sound Effects (e.g when The Task Is completed, when a new task is Added / Deleted)
+: > Make The App More Productive (e.g when we open a new screen from the side panel, Finished Task Screen, after closing that screen, the side panel should stay open, so the user won't have to open the side panel again an again,
+Add Swipe To Remove/Put the task in sleep mod in the taskList View)
+ 
+----------------------------------------------------------------------
+
+Note : For Now i am Only Testing the app in 1 Device because app need too much work
+
+report date : 21/11/2023
+
